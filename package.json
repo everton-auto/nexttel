@@ -1,0 +1,32 @@
+{
+  "name": "nextel-connect-central",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@emailjs/browser": "^4.4.1",
+    "@supabase/supabase-js": "^2.106.2",
+    "@vitejs/plugin-react": "^5.0.0",
+    "bcryptjs": "^3.0.3",
+    "jose": "^6.2.3",
+    "jwt-decode": "^4.0.0",
+    "leaflet": "^1.9.4",
+    "lucide-react": "^0.468.0",
+    "otpauth": "^9.5.1",
+    "qrcode": "^1.5.4",
+    "qrcode.react": "^4.2.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-leaflet": "^4.2.1",
+    "react-signature-canvas": "^1.1.0-alpha.2",
+    "react-toastify": "^11.1.0",
+    "recharts": "^3.8.1",
+    "vite": "^7.0.0",
+    "write-excel-file": "^4.0.7"
+  }
+}
